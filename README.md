@@ -7,4 +7,4 @@
 # Phần cứng sử dụng
 - STM32F103C8T6
 - USB to TTL
-- Cảm biến lm35 analog
+- Cảm biến nhiệt độ  lm35 analog
